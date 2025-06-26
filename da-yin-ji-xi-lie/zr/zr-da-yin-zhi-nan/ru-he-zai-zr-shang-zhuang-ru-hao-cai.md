@@ -28,7 +28,7 @@
 
 <figure><img src="../../../.gitbook/assets/图片 9 (1).png" alt=""><figcaption><p>主页界面</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/图片 10.png" alt=""><figcaption><p>设置界面-耗材-进料</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/图片 10 (1).png" alt=""><figcaption><p>设置界面-耗材-进料</p></figcaption></figure>
 
 
 
