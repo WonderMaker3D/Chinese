@@ -1,9 +1,11 @@
 # ZR
 
-## 关于ZR
+<figure><img src="../../.gitbook/assets/售后线条图 (24).png" alt=""><figcaption><p>WonderMaker 3D - ZR</p></figcaption></figure>
 
-ZR-----
+本章节针对**WonderMaker ZR**机器的快速入门、打印指南、维护建议、故障排除、固件升级等内容合订，并在进行不间断更新和维护。
 
+感谢您的支持和耐心！
 
+***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>快速入门</strong></td><td></td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>ZR系列配件</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td>Share your docs online</td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+/
