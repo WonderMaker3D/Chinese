@@ -1,5 +1,13 @@
 # 如何连接WIFI，获取IP地址
 
-进入设置界面（①），点击Wi-Fi（②）并打开（③），连接网络（④）获取IP地址（⑤）。
+1. 打开设备进入设置界面
 
-![C:/Users/admin/AppData/Local/Temp/wps.YhdhBbwps](<../../../.gitbook/assets/0 (25).png>) ![C:/Users/admin/AppData/Local/Temp/wps.qOZXSkwps](<../../../.gitbook/assets/1 (28).png>)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2. 找到WIFI设置-点击可以连接的WiFi输入密码登入
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+3. 网络连接成功后，获取设备的IP地址
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
