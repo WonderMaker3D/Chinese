@@ -1,0 +1,3 @@
+# 四色端（M）
+
+<table><thead><tr><th width="116.4000244140625">错误码</th><th width="222.5999755859375">弹窗内容</th><th width="519">处理方式</th></tr></thead><tbody><tr><td>ZR-M002</td><td>#1号槽料线耗尽</td><td>检查#1号通道是否还有线材</td></tr><tr><td>ZR-M003</td><td>#1号槽料处于卡料状态</td><td>检查#1号通道线材是否卡住</td></tr><tr><td>ZR-M005</td><td>#2号槽料线耗尽</td><td>检查#2号通道是否还有线材</td></tr><tr><td>ZR-M006</td><td>#2号槽料处于卡料状态</td><td>检查#2号通道线材是否卡住</td></tr><tr><td>ZR-M008</td><td>#3号槽料线耗尽</td><td>检查#3号通道是否还有线材</td></tr><tr><td>ZR-M009</td><td>#3号槽料处于卡料状态</td><td>检查#3号通道线材是否卡住</td></tr><tr><td>ZR-M011</td><td>#4号槽料线耗尽</td><td>检查#4号通道是否还有线材</td></tr><tr><td>ZR-M012</td><td>#4号槽料处于卡料状态</td><td>检查#4号通道线材是否卡住</td></tr></tbody></table>
