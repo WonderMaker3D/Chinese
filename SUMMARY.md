@@ -17,6 +17,7 @@
       * [如何装入，退出耗材](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/shou-ci-da-yin/ru-he-zhuang-ru-tui-chu-hao-cai.md)
     * [3D打印材料的入门指南](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/3d-da-yin-cai-liao-de-ru-men-zhi-nan.md)
     * [如何使用平台胶水](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/ru-he-shi-yong-ping-tai-jiao-shui.md)
+    * [打印结束后模型处理技巧](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/da-yin-jie-shu-hou-mo-xing-chu-li-ji-qiao.md)
     * [如何安装丝盘轴](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/ru-he-an-zhuang-si-pan-zhou.md)
     * [如何安装摄像头](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/ru-he-an-zhuang-she-xiang-tou.md)
   * [ZR屏幕操作指南](da-yin-ji-xi-lie/zr/zr-ping-mu-cao-zuo-zhi-nan/README.md)
