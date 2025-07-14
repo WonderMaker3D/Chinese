@@ -47,7 +47,7 @@
 
 用十字螺丝刀卸下固定挤出机的 3 颗螺丝后，取下挤出机。
 
-![](../../../../.gitbook/assets/10.png) ![](<../../../../.gitbook/assets/11 (2).jpeg>)
+![](<../../../../.gitbook/assets/10 (1).png>) ![](<../../../../.gitbook/assets/11 (2).jpeg>)
 
 ![](<../../../../.gitbook/assets/12 (2).jpeg>) ![](<../../../../.gitbook/assets/13 (2).jpeg>)
 

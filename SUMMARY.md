@@ -15,6 +15,7 @@
       * [如何初次连接ZR打印机](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/shou-ci-da-yin/ru-he-chu-ci-lian-jie-zr-da-yin-ji.md)
       * [导入导出预设配置文件](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/shou-ci-da-yin/dao-ru-dao-chu-yu-she-pei-zhi-wen-jian.md)
       * [如何装入，退出耗材](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/shou-ci-da-yin/ru-he-zhuang-ru-tui-chu-hao-cai.md)
+    * [Orca Slicer使用教程](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/orca-slicer-shi-yong-jiao-cheng.md)
     * [3D打印材料的入门指南](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/3d-da-yin-cai-liao-de-ru-men-zhi-nan.md)
     * [如何使用平台胶水](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/ru-he-shi-yong-ping-tai-jiao-shui.md)
     * [打印结束后模型处理技巧](da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/da-yin-jie-shu-hou-mo-xing-chu-li-ji-qiao.md)
