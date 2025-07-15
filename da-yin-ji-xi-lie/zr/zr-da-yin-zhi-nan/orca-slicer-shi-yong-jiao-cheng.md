@@ -8,11 +8,11 @@ Orca Slicer 快速使用教程
 
 **Orca Slicer** 是一款定制优化、功能丰富且易于使用的切片软件，旨在为用户带来流畅的打印体验。在打印功能上 Orca Slicer 支持**多色打印**，并具备自动优化耗材分组的功能，可有效减少材料浪费并提高打印效率。此外，用户还能通过该软件**远程控制和监视打印过程**，实现更高效的打印管理。
 
-Orca Slicer 适用于 Windows、MacOS 和 Linux 操作系统，支持 .3mf、.stl、.stp、.step、.amf 和 .obj 等多种文件格式。
+Orca Slicer 适用于 Windows、Mac和 Linux 操作系统，支持 .3mf、.stl、.stp、.step、.amf 和 .obj 等多种文件格式。
 
 在 3D 打印领域，**切片软件**是连接数字创意与物理实物的关键桥梁。它将 3D 模型（如 STL、OBJ 或 3MF 格式）转化为 3D 打印机能识别的指令集——**G-code**。**“切片”**&#x7684;过程是将 3D 模型水平切割成数百甚至上千个薄层。对于每一层，切片软件会精确计算打印喷嘴的路径，包括移动位置、挤出耗材的时机、打印速度以及所需的温度等。它还会根据预设自动生成支撑结构、填充图案、墙层数等关键参数。
 
-![](../../../.gitbook/assets/0.png)
+![](<../../../.gitbook/assets/0 (32).png>)
 
 ### 下载和安装
 
@@ -20,53 +20,51 @@ Orca Slicer 官方下载地址：https://orcaslicer.cn/Download/
 
 进入该网页之后，您可以根据自己计算机操作系统下载对应的安装包。
 
-#### 打印机选择
-
-选择您希望在切片操作菜单中显示的打印机或喷嘴选项，可选择任何或所有可用选项。如果您在此阶段只选择一个喷嘴尺寸，可在稍后阶段通过切片器菜单调整这些选项。
-
-![](../../../.gitbook/assets/1.png)
+#### [导入预设配置文件](https://app.gitbook.com/o/fM3rRToqxzMrB9JW9eOV/s/mtgpKJmKAhxWrhldfo3l/da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/shou-ci-da-yin/dao-ru-dao-chu-yu-she-pei-zhi-wen-jian)
 
 #### 材料选择
 
 选择您希望在材料预设列表中列出的材料，可选择尽可能多的材料。
 
-![](../../../.gitbook/assets/2.png)
+![](<../../../.gitbook/assets/1 (37).png>)
 
-### 首次打印
+### 首次打印：
 
 #### 打印机绑定
 
 在发起打印任务之前，首先您需要完成 Orca Slicer 和打印设备的绑定，这样才能进行设备状态的查看、任务的远程发起与控制。
 
-![](../../../.gitbook/assets/3.png)
+![](<../../../.gitbook/assets/2 (28).png>)
 
-使用 IP 地址和访问码来绑定打印机（需要打印机在局域网模式下使用，适合数据隔离或无外网环境。）。
+详情查看[如何初次连接打印机](https://app.gitbook.com/o/fM3rRToqxzMrB9JW9eOV/s/mtgpKJmKAhxWrhldfo3l/da-yin-ji-xi-lie/zr/zr-da-yin-zhi-nan/shou-ci-da-yin/ru-he-chu-ci-lian-jie-zr-da-yin-ji)
 
 #### 创建新项目
 
 点击主页**创建一个新项目**。
 
-![](../../../.gitbook/assets/4.png)
+![](<../../../.gitbook/assets/3 (28).png>)
 
 #### 添加模型
 
 在预览窗格的顶部工具栏上，点击第一个图标①**添加**，以导入模型；也可将文件夹中的模型文件拖入模型界面②中导入。支持的文件包括 .3mf .stl .stp .step .amf .obj 格式。
 
-![C:/Users/admin/AppData/Local/Temp/wps.DnkYMNwps](../../../.gitbook/assets/5.png)
+![](<../../../.gitbook/assets/4 (28).png>)
 
 #### 选择打印机/耗材丝/工艺预设
 
 在模型切片前，需要选择您想使用的打印机和耗材丝，并对打印模型进行相关设置。
 
-1. 点击**打印机**选择框，在列表中选择要使用的机型及喷嘴尺寸
+1. 点击**打印机**选择框，在列表中选择要使用的机型
 2. 点击**耗材丝**选择框，在列表中选择您要使用的耗材类型
-3. 点击**工艺**选择框，在列表中选择模型的层高。**层高越小，打印时间越长。对于大多数用0.4mm喷嘴打印的模型来说，0.20 mm的层高是合适的。**![](../../../.gitbook/assets/6.png)
+3. 点击**工艺**选择框，在列表中选择模型的层高。**层高越小，打印时间越长。对于大多数用0.4mm喷嘴打印的模型来说，0.20 mm的层高是合适的。**
 
-### **准备界面**
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### 准备界面
 
 进入准备界面，您可以看到以下 7 个主要部分。
 
-![C:/Users/admin/AppData/Local/Temp/wps.MNONhdwps](../../../.gitbook/assets/7.png)
+![](<../../../.gitbook/assets/6 (25).png>)
 
 **1. 标签栏**：包括六个标签，分别为首页、准备、预览、设备、项目。
 
@@ -82,31 +80,33 @@ Orca Slicer 官方下载地址：https://orcaslicer.cn/Download/
 
 **7. 模型界面**：3D 模型交互的核心区域，提供直观、便捷的模型展示和编辑。
 
-### **模型视图操作**
+### 模型视图操作
 
 在模型交互方面，您可以通过鼠标操作旋转、缩放和平移模型，以便从不同角度进行查看和编辑。
 
-按住鼠标**左键**并拖动来旋转模型，按住右键**右键**并拖动来平移模型。
+点击选中模型，按住鼠标**左键**可移动模型。
+
+按住鼠标**左键**并拖动来旋转模型界面，按住鼠标**右键**并拖动来平移模型界面。
 
 模型界面的缩放操作可通过滚动鼠标**滚轮**来实现。
 
-您也可以借助相机导航工具，快速切换并精确调整观察视角，以便更高效地查看和编辑模型。
+您也可以借助左下角坐标示图工具，快速切换并精确调整观察视角，以便更高效地查看和编辑模型。
 
-![C:/Users/admin/AppData/Local/Temp/wps.NHCLCJwps](../../../.gitbook/assets/8.png)
+![](<../../../.gitbook/assets/7 (11).png>)
 
 #### 模型切片
 
 * 设置完成后，点击屏幕右上角的**切片单盘**。
 
-![C:/Users/admin/AppData/Local/Temp/wps.rloTTAwps](../../../.gitbook/assets/9.png)
+![](<../../../.gitbook/assets/8 (9).png>)
 
 * 如模型文件包含多盘，可点击屏幕右上角的**切片所有盘**。
 
-![C:/Users/admin/AppData/Local/Temp/wps.nleTTCwps](../../../.gitbook/assets/10.png)
+![](<../../../.gitbook/assets/9 (12).png>)
 
-完成后，屏幕将显示 .3mf 文件模型切片后的外观，右侧直方图还将显示模型的颜色方案、耗材丝用量、打印时间等信息。
+完成后，屏幕将显示模型切片后的外观，右侧直方图还将显示模型的颜色方案、耗材丝用量、打印时间等信息。
 
-![](../../../.gitbook/assets/11.png)
+![](<../../../.gitbook/assets/10 (7).png>)
 
 #### 发送打印任务
 
@@ -114,11 +114,10 @@ Orca Slicer 官方下载地址：https://orcaslicer.cn/Download/
 
 点击屏幕右上角的**打印**，屏幕将弹出一个上传**打印任务**窗口。确认要发送的打印机，使用的耗材，以及打印机在打印开始前是否执行某些功能，如热床调平、流量校准等。选择完成后，点击上传并打印，即可开始打印。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 远程控制
 
-选择标签栏中的**设备**界面，可实时远程控制和监视打印。如果您的打印机上安装了摄像头，您还可以远程观看打印的实时画面。\
+选择标签栏中的**设备**界面，可实时远程控制和监视打印。如果您的打印机上安装了摄像头，您还可以远程观看打印的实时画面。
 
-
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
