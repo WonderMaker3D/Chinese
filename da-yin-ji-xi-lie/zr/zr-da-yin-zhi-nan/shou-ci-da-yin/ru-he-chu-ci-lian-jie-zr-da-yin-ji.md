@@ -2,17 +2,17 @@
 
 1. 打开设备点击设置按钮
 
-<figure><img src="../../../../.gitbook/assets/WPS图片(8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/WPS图片(8).png" alt=""><figcaption></figcaption></figure>
 
 2. 找到WIFI设置-点击可以连接的WiFi输入密码登入
 
-<figure><img src="../../../../.gitbook/assets/WPS图片(9).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/WPS图片(9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/2 (29).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2 (29).png" alt=""><figcaption></figcaption></figure>
 
 3. 连接成功后记下设备的ip地址
 
-<figure><img src="../../../../.gitbook/assets/WPS图片(10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/WPS图片(10).png" alt=""><figcaption></figcaption></figure>
 
 4. 打开Orca Slice，点击wifi连接
 
