@@ -58,7 +58,7 @@ Orca Slicer 官方下载地址：https://orcaslicer.cn/Download/
 2. 点击**耗材丝**选择框，在列表中选择您要使用的耗材类型
 3. 点击**工艺**选择框，在列表中选择模型的层高。**层高越小，打印时间越长。对于大多数用0.4mm喷嘴打印的模型来说，0.20 mm的层高是合适的。**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 准备界面
 

@@ -12,4 +12,4 @@
 
 3. 确认后出现如下界面，待进度条加载完成后，即成功导出日志文件。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
