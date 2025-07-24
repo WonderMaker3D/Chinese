@@ -12,8 +12,8 @@
 
 ![](<../../../.gitbook/assets/3 (8).png>) ![](<../../../.gitbook/assets/4 (9).png>)
 
-4. 将U盘插入触摸屏右端USB接口处，点击来到文件界面，选择USB文件，点击刚才导入的立方体模型文件，即可开始打印。（将文件复制到本地便可在打印过程中拔出U盘）
+4. 将U盘插入触摸屏右端USB接口处，点击来到文件界面，选择USB文件，点击需要打印的模型文件，即可开始打印。（将文件复制到本地便可在打印过程中拔出U盘）
 
 <figure><img src="../../../.gitbook/assets/WPS图片(17).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0 (1).png" alt=""><figcaption></figcaption></figure>

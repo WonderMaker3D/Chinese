@@ -4,7 +4,7 @@
 
 <figure><img src="../../../../.gitbook/assets/WPS图片(8).png" alt=""><figcaption></figcaption></figure>
 
-2. 找到WIFI设置-点击可以连接的WiFi输入密码登入
+2. 点击WIFI并开启-输入密码连接WiFi
 
 <figure><img src="../../../../.gitbook/assets/WPS图片(9).png" alt=""><figcaption></figcaption></figure>
 
