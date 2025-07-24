@@ -1,6 +1,6 @@
 # 如何进行固件升级
 
-1. 在主页界面点击进入设置界面，点击并连接Wi-Fi，请确保在联网状态下进行升级操作。
+1. 点击进入设置界面，点击并连接Wi-Fi，请确保在联网状态下进行升级操作。
 
 <figure><img src="../../../.gitbook/assets/WPS图片(11).png" alt=""><figcaption></figcaption></figure>
 
